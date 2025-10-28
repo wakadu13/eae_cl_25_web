@@ -4,7 +4,7 @@ def main():
     for i in range(1000000000):
         n += i
         print(n)
+        print("Hello world")
 #Mise au point
-
 if __name__ == "__main__":
     main()
